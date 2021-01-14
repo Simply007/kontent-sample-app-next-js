@@ -1,5 +1,7 @@
 # A statically generated blog example using Next.js and Kontent
 
+**CREATED USING <https://github.com/vercel/next.js/tree/canary/examples/cms-kontent>**
+
 This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using [Kentico Kontent](https://kontent.ai) as the data source.
 
 ## Demo
@@ -10,23 +12,7 @@ This example showcases Next.js's [Static Generation](https://nextjs.org/docs/bas
 
 Once you have access to [the environment variables you'll need](#step-3-set-up-environment-variables), deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/cms-kontent&project-name=cms-kontent&repository-name=cms-kontent&env=KONTENT_PROJECT_ID,KONTENT_PREVIEW_API_KEY,KONTENT_PREVIEW_SECRET&envDescription=Required%20to%20connect%20the%20app%20with%20Kontent&envLink=https://github.com/vercel/next.js/tree/canary/examples/cms-kontent%23step-3-set-up-environment-variables)
-
-### Related examples
-
-- [WordPress](/examples/cms-wordpress)
-- [DatoCMS](/examples/cms-datocms)
-- [Sanity](/examples/cms-sanity)
-- [TakeShape](/examples/cms-takeshape)
-- [Prismic](/examples/cms-prismic)
-- [Contentful](/examples/cms-contentful)
-- [Strapi](/examples/cms-strapi)
-- [Agility CMS](/examples/cms-agilitycms)
-- [Cosmic](/examples/cms-cosmic)
-- [ButterCMS](/examples/cms-buttercms)
-- [Storyblok](/examples/cms-storyblok)
-- [GraphCMS](/examples/cms-graphcms)
-- [Blog Starter](/examples/blog-starter)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/Simply007/kontent-sample-app-next-js&project-name=kontent-sample-app-next-js&repository-name=kontent-sample-app-next-js&env=KONTENT_PROJECT_ID,KONTENT_PREVIEW_API_KEY,KONTENT_PREVIEW_SECRET&envDescription=Required%20to%20connect%20the%20app%20with%20Kontent&envLink=https://github.com/Simply007/kontent-sample-app-next-js%23step-3-set-up-environment-variables)
 
 ## How to use
 
@@ -199,4 +185,4 @@ To deploy your local project to Vercel, push it to GitHub/GitLab/Bitbucket and [
 
 Alternatively, you can deploy using our template by clicking on the Deploy button below.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/cms-kontent&project-name=cms-kontent&repository-name=cms-kontent&env=KONTENT_PROJECT_ID,KONTENT_PREVIEW_API_KEY,KONTENT_PREVIEW_SECRET&envDescription=Required%20to%20connect%20the%20app%20with%20Kontent&envLink=https://github.com/vercel/next.js/tree/canary/examples/cms-kontent%23step-3-set-up-environment-variables)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/Simply007/kontent-sample-app-next-js&project-name=kontent-sample-app-next-js&repository-name=kontent-sample-app-next-js&env=KONTENT_PROJECT_ID,KONTENT_PREVIEW_API_KEY,KONTENT_PREVIEW_SECRET&envDescription=Required%20to%20connect%20the%20app%20with%20Kontent&envLink=https://github.com/Simply007/kontent-sample-app-next-js%23step-3-set-up-environment-variables)
