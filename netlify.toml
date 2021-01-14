@@ -2,9 +2,9 @@
   command   = "yarn build"
 
 [build.environment]
-  KONTENT_PROJECT_ID = ""
-  KONTENT_PREVIEW_API_KEY = ""
-  KONTENT_PREVIEW_SECRET = ""
+  KONTENT_PROJECT_ID = "FILL"
+  KONTENT_PREVIEW_API_KEY = "FILL"
+  KONTENT_PREVIEW_SECRET = "FILL"
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
