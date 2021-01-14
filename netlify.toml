@@ -1,8 +1,5 @@
 [build]
   command   = "yarn build"
 
-[context.production]
-  environment = {   KONTENT_PROJECT_ID = "FILL", KONTENT_PREVIEW_API_KEY = "FILL", KONTENT_PREVIEW_SECRET = "FILL" }
-
 [[plugins]]
   package = "@netlify/plugin-nextjs"
